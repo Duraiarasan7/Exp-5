@@ -1,52 +1,50 @@
-# Exp 05- STUDENT ENROLLMENT SYSTEM
+# Exp - 5 STUDENT REGISTRATION SYSTEM
 
 # AIM:
-
-To study the problem statement, SRS document and draw all the UML diagrams of a Student Enrollment Management System.
+To develop a project Student Registration System using Rational Rose Software and to implement the software in Java
 
 # SRS (Procedure):
+1. Use case Diagram
+2. Activity Diagram
+3. Class Diagram
+4. Sequence Diagram
+5. Communication Diagram
+6. Package Diagram
 
-## Step 1: Problem Identification
+# DIAGRAMS:
+## 1. Use case Diagram
 
-Manual student admission and record handling are time-consuming and prone to errors. The system aims to automate student registration, course enrollment, and record management efficiently.
+<img width="1182" height="1061" alt="image" src="https://github.com/user-attachments/assets/39adba7e-135d-40af-aae1-fa15c1d00ef4" />
 
-## Step 2: Requirement Analysis
 
-Users: Admin, Staff, and Student.      
-Main Functions: Student registration, course enrollment, fee payment, record updating, and report generation.    
-Non-Functional Needs: Security, reliability, and an easy-to-use interface.
 
-## Step 3: System Design
+## 2. Activity Diagram
+<img width="520" height="1293" alt="image" src="https://github.com/user-attachments/assets/e046cba0-c64e-4d34-80ac-cdd5b9d75049" />
 
-Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
-Design database tables for Students, Courses, Enrollment, and Fees.
 
-# UML DIAGRAMS:
 
-## USE CASE DIAGRAM:
 
-<img width="1005" height="847" alt="image" src="https://github.com/user-attachments/assets/5540aa6b-cc38-4585-a839-fe1a4b700de8" />
+## 3. Class Diagram
+<img width="1111" height="663" alt="image" src="https://github.com/user-attachments/assets/cbe59bc3-4a79-4250-90a7-31bf993efea7" />
 
-## ACTIVITY DIAGRAM:
 
-<img width="753" height="1041" alt="image" src="https://github.com/user-attachments/assets/ebfc6d26-f3ee-4b92-a62f-44538a767130" />
+## 4. Sequence Diagram
 
-## CLASS DIAGRAM:
+<img width="1382" height="1362" alt="image" src="https://github.com/user-attachments/assets/2103c613-10a3-478e-9f3b-7b1adc91611d" />
 
-<img width="1213" height="800" alt="image" src="https://github.com/user-attachments/assets/70b41bf2-0064-40dc-8d67-39c34a86b1e0" />
 
-## COMMUNICATION DIAGRAM:
 
-<img width="1112" height="756" alt="image" src="https://github.com/user-attachments/assets/619c25b8-8de1-4179-a6ec-476f15cd995b" />
+## 5. Communication Diagram
 
-## PACKAGE DIAGRAM:
+<img width="1272" height="1102" alt="image" src="https://github.com/user-attachments/assets/57fba384-92ea-4785-8054-647de98670e6" />
 
-<img width="809" height="657" alt="image" src="https://github.com/user-attachments/assets/4d628a1d-9555-4001-95d7-aac959209267" />
 
-## SEQUENCE DIAGRAM:
 
-<img width="886" height="752" alt="image" src="https://github.com/user-attachments/assets/5e24ab8f-f320-43cf-b812-b39a211401fb" />
+## 6. Package Diagram
+<img width="861" height="461" alt="image" src="https://github.com/user-attachments/assets/8d25d36e-1d6f-4247-b85d-742cdccf9948" />
+
+
+
 
 # RESULT:
-
-Thus the Student enrollment management system project was executed and the output was verified.
+Thus the Student information system project was executed and the output was verified.
